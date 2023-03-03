@@ -1,0 +1,17 @@
+{
+    "name": "root/wp-coupons-for-woocommerce",
+    "description": "dev",
+    "type": "project",
+    "license": "apache2",
+    "authors": [
+        {
+            "name": "muthukarthikeyan00",
+            "email": "muthukarthikeyan00@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4": {"App\\":"./App"}
+    }
+}
